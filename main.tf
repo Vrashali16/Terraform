@@ -12,6 +12,8 @@ terraform {
 
 provider "aws" {
   profile = "default"
+  access_key = "ASIAUX5TE2UUBR3XOEDY"
+  secret_key = "PigqRBGgeOq3GwIhGf+Idg2I0db2sDRkfRy7UY4x"
   region  = "us-west-2"
 }
 
