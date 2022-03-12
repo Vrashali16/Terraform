@@ -94,7 +94,7 @@ resource "aws_instance" "jenkins" {
     type        = "ssh"
     host        = self.public_ip
     user        = "ubuntu"
-    private_key = file("./jenkins-key-pair.pem")
+    private_key = file(".key-pair.pem")
   }
   tags = {
     "Name"      = "Jenkins_Server"
