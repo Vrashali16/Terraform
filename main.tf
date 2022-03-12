@@ -72,7 +72,7 @@ resource "aws_instance" "jenkins" {
   ami             = data.aws_ami.ubuntu.id
   instance_type   = "t2.micro"
   security_groups = [aws_security_group.web_traffic.name]
-  key_name        = "jenkins-key-pair"
+  key_name        = "key-pair"
 
   provisioner "remote-exec" {
     inline = [
