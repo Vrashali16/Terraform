@@ -14,6 +14,7 @@ provider "aws" {
   profile = "default"
   access_key = "ASIAUX5TE2UUBR3XOEDY"
   secret_key = "PigqRBGgeOq3GwIhGf+Idg2I0db2sDRkfRy7UY4x"
+  token = "FwoGZXIvYXdzEMr//////////wEaDEvmEZvxmCBaxLfwACK2AXukvAgo0pm8RhDkir6ochQUxKXBGypIzPKmBDy5FNOZIMi4F/wLkgDC6lT+w7DZWYsowzUQ06QXG3XBfcl7X0ft07Ej5Xl02TIPLIMrb/H9JFXzU1FGVmRCZnSrUSPaAvtU7duhhtZStwMKw7HWDoQ7SEoFKD/Pe+zhSZUgs1w2PbUI4M0MwjBfLs4YTqDODK1Ee7RWt3KKAvieBA4HlUTk2YRg+K0dGNASCfX+eMLyFFVZs5YyKJCVs5EGMi0MCFVtZOi+sk5MhXPtg7kA6hHXqH4f0qkeYwVw0yrPVWeaLjQbHL5zAuvYd/U="
   region  = "us-west-2"
 }
 
