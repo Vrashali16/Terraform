@@ -14,7 +14,6 @@ provider "aws" {
   profile="default"
   access_key="AKIAQW6HQLJ3GBRP7S7T"
   secret_key="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"
-  token="FwoGZXIvYXdzEN7//////////wEaDPB+LbPJJPbFzvKnlSK2AQ5E1uE+tbJZ69QOvMLENSznSHPPRw7w2Gy9WORCSgP5PSQG70+p/moOGA/2Hu2CiUdvvmru4Tan69gaGdveRe4e0/igzSopjYu7mbsisvLAxj/gJ0FuPkFWA49yTYRWe6WAuacD0S87Blnr7I7CEkcTmRp0wC+0dHQqrdgw3X1gu+bgB2Um+/ep4tytQU9ZjL3eUk2XzWkN3SxwE+WDRuoZYKzMGPVephHwbfg9/W2+0wZ6Lo+kKJXBt5EGMi26RloEkAESp1wCSVez/yJCWaGD2ihXnaFFK0XQGNBoDq2zhON1BRCMeun/6tk="
   region="us-east-1"
 }
 
